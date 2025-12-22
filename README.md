@@ -1,4 +1,4 @@
-# Face_Rocognition_Attendance_Project
+# Face_Recognition_Attendance_Project
 
 Face_recognition_based_attendance_system
 A python GUI integrated attendance system using face recognition to take attendance.
